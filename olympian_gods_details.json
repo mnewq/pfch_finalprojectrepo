@@ -1,0 +1,293 @@
+[
+  {
+    "name": "APHRODITE",
+    "sources": [
+      "(Hesiod Theogony 188",
+      "Cicero De Natura Deorum 3.21",
+      "Apuleius 6.6",
+      "Nonnus Dionysiaca 1.86",
+      "et al)"
+    ]
+  },
+  {
+    "name": "APOLLO",
+    "sources": [
+      "(Hesiod Theogony 918",
+      "Hesiod Works & Days 770",
+      "Homer Iliad 1.9 & 21.495",
+      "Homer Odyssey 6.100 & 11.318",
+      "Homeric Hymn 27 to Artemis",
+      "Orphic Hymn 35",
+      "Pindar Nemean Ode 6 & 8",
+      "Pindar Processional Song on Delos",
+      "Callimachus Hymn to Artemis & Hymn to Delos",
+      "Apollodorus 1.21 & 3.46",
+      "Pausanias 8.9.1 & 8.53.1. Hyginus Fabulae 9 & 140",
+      "et al)"
+    ]
+  },
+  {
+    "name": "ARES",
+    "sources": [
+      "(Hesiod Theogony 921",
+      "Homer Iliad 5.699",
+      "Aeschylus Frag 282",
+      "Apollodorus 1.13",
+      "Pausanias 2.14.3",
+      "Hyginus Preface",
+      "et al)"
+    ]
+  },
+  {
+    "name": "ARTEMIS",
+    "sources": [
+      "(Hesiod Theogony 918",
+      "Hesiod Works & Days 770",
+      "Homer Iliad 1.9 & 21.495",
+      "Homer Odyssey 6.100 & 11.318",
+      "Homeric Hymn 27 to Artemis",
+      "Orphic Hymn 35",
+      "Pindar Nemean Ode 6 & 8",
+      "Pindar Processional Song on Delos",
+      "Callimachus Hymn to Artemis & Hymn to Delos",
+      "Apollodorus 1.21 & 3.46",
+      "Pausanias 8.9.1 & 8.53.1. Hyginus Fabulae 9 & 140",
+      "et al)"
+    ]
+  },
+  {
+    "name": "ATHENA",
+    "sources": [
+      "(Hesiod Theogony 887",
+      "924; Apollodorus 1.20)"
+    ]
+  },
+  {
+    "name": "DEMETER",
+    "sources": [
+      "(Hesiod Theogony 453",
+      "Apollodorus 1.4",
+      "Diodorus Siculus 5.68.1",
+      "Hyginus Fabulae",
+      "et al)"
+    ]
+  },
+  {
+    "name": "DIONYSUS",
+    "sources": [
+      "(Hesiod Theogony 940",
+      "Homeric Hymn 1 & 7 & 26",
+      "Pindar Odes Pythian 3",
+      "Bacchylides Frag 19",
+      "Apollodorus 3.26",
+      "Pausanias 3.24.4",
+      "Diodorus Siculus 4.2.1",
+      "Hyginus Fabulae 179",
+      "Nonnus Dionysiaca",
+      "et al)"
+    ]
+  },
+  {
+    "name": "HEPHAESTUS",
+    "sources": [
+      "(Hesiod Theogony 927",
+      "Homeric Hymn 3.310",
+      "Apollodorus 1.19",
+      "Pausanias 1.20.3",
+      "Hyginus Pref)"
+    ]
+  },
+  {
+    "name": "HERA",
+    "sources": [
+      "(Homer Iliad 15.187",
+      "Hesiod Theogony 453",
+      "Apollodorus 1.4",
+      "Diodorus Siculus 5.68.1",
+      "et al)"
+    ]
+  },
+  {
+    "name": "HERMES",
+    "sources": [
+      "(Hesiod Theogony 938 & Astronomy Frag 1",
+      "Homeric Hymn 4 to Hermes",
+      "Homeric Hymn 17",
+      "Alcaeus Frag 308",
+      "Simonides Frag 555",
+      "Aeschylus Libation Bearers 683 & Frag 212",
+      "Apollodorus 3.112",
+      "Philostratus Elder 1.46",
+      "Ovid Fasti 5.79)"
+    ]
+  },
+  {
+    "name": "POSEIDON",
+    "sources": [
+      "(Homer Iliad 15.187",
+      "Hesiod Theogony 453",
+      "Apollodorus 1.4",
+      "Diodorus Siculus 5.68.1",
+      "et al)"
+    ]
+  },
+  {
+    "name": "ZEUS",
+    "sources": [
+      "(Homer Iliad 15.187",
+      "Hesiod Theogony 453",
+      "Apollodorus 1.4",
+      "Diodorus Siculus 5.68.1",
+      "et al)"
+    ]
+  },
+  {
+    "name": "ASCLEPIUS",
+    "sources": [
+      "(Hesiod Catalogues Frag 90",
+      "Plato Republic 408b",
+      "Orphic Hymn 67)"
+    ]
+  },
+  {
+    "name": "CHARITES",
+    "sources": [
+      "(Hesiod Theogony 907",
+      "Onomacritus Frag",
+      "Apollodorus 1.13",
+      "Callimachus Aetia Frag 6",
+      "Pausanias 9.35.1",
+      "Hyginus Preface)"
+    ]
+  },
+  {
+    "name": "EILEITHYIA",
+    "sources": [
+      "(Hesiod Theogony 921",
+      "Apollodorus 1.13)"
+    ]
+  },
+  {
+    "name": "EROS",
+    "sources": [
+      "(Ibycus Frag 284",
+      "Anacreontea Frag 44",
+      "Apollonius Rhodius 3.82",
+      "Pausanias 9.27.1",
+      "Plato Phaedrus",
+      "Philostratus Younger 8",
+      "Oppian Halieutica 4.10",
+      "Hyginus Astronomica 2.30",
+      "Ovid Metamorphoses 1.452 & 5.363",
+      "Seneca Phaedra 274",
+      "Statius Silvae 1.2.51",
+      "Apuleius 11.218",
+      "Nonnus Dionysiaca 4.238 & 33.4)"
+    ]
+  },
+  {
+    "name": "HEBE",
+    "sources": [
+      "(Hesiod Theogony 921",
+      "Homer Odyssey 11. 601",
+      "Pindar Isthmian Ode 4",
+      "Apollodorus 1.13",
+      "Pausanias 2.13.3",
+      "Aelian On Animals 17.46",
+      "Hyginus Preface)"
+    ]
+  },
+  {
+    "name": "HESTIA",
+    "sources": [
+      "(Hesiod Theogony 453",
+      "Apollodorus 1.4",
+      "Diodorus Sicululs 1.4. Hyginus Preface",
+      "Ovid Fasti 6.285)"
+    ]
+  },
+  {
+    "name": "HORAE",
+    "sources": [
+      "(Hesiod Theogony 901",
+      "Pindar Frag 30",
+      "Apollodorus 1.13",
+      "Pausanias 5.17.1",
+      "Orphic Hymn 43",
+      "Hyginus Fabulae 183)"
+    ]
+  },
+  {
+    "name": "HYGEIA",
+    "sources": [
+      "(Greek Lyric V Anonymous Frag 939 Erythrae Inscription",
+      "Suidas s.v. Epione)"
+    ]
+  },
+  {
+    "name": "IRIS",
+    "sources": [
+      "(Hesiod Theogony 265",
+      "Apollodorus 1.10",
+      "Hyginus Pref",
+      "Nonnus Dionysiaca 26.350)"
+    ]
+  },
+  {
+    "name": "LETO",
+    "sources": [
+      "(Hesiod Theogony 404",
+      "Apollodorus 1.9",
+      "Diodorus Siculus 5.67.1",
+      "Hyginus Preface)"
+    ]
+  },
+  {
+    "name": "MOIRAE",
+    "sources": [
+      "(Hesiod Theogony",
+      "Apollodorus 1.13)"
+    ]
+  },
+  {
+    "name": "MUSES",
+    "sources": [
+      "(Hesiod Theogony 1 & 915",
+      "Mimnermus Frag",
+      "Alcman Frag 8",
+      "Solon Frag 13",
+      "Apollodorus 1.13",
+      "Pausanias 1.2.5",
+      "Diodorus Siculus 4.7.1",
+      "Orphic Hymns 76 & 77",
+      "Antoninus Liberalis 9",
+      "Cicero De Natura Deorum 3.21",
+      "Arnobius 3.37)\n"
+    ]
+  },
+  {
+    "name": "NIKE",
+    "sources": [
+      "(Hesiod Theogony 383",
+      "Bacchylides Frag 11 & Ep 2",
+      "Apollodorus 1.9",
+      "Hyginus Preface)"
+    ]
+  },
+  {
+    "name": "THEMIS",
+    "sources": [
+      "(Hesiod Theogony 132",
+      "Orphic Hymn 79",
+      "Euripides Eumenides 1",
+      "Apollodorus 1.13",
+      "Diodorus Siculus 5.66.1)"
+    ]
+  },
+  {
+    "name": "TYCHE",
+    "sources": [
+      "(Hesiod Theogony 360; Homeric Hymn 2.420)"
+    ]
+  }
+]

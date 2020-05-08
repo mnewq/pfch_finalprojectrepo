@@ -1,4 +1,4 @@
-Untangling the family trees of Olympian gods:
+Parentage on Mount Olympus & Untangling the family trees of Olympian gods:
 
 When completed, this in-progress project aims to illustrate the overlapping and contradictory parentages of the Greek gods. In the lore and study of ancient Greek mythology, many classical sources have attributed deities’ parentage to a variety of other deities; it becomes almost impossible to keep track of how many variations of parentage a single member of the pantheon has, let alone which is the most commonly agreed upon by ancient historians and authors. By illuminating the connections, we move from the standard two-dimensional family tree with its alternative dotted lines to a model focusing on relativity that can be used as a reference guide for those wishing to untangle the pantheon.
 
